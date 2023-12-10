@@ -214,3 +214,25 @@ nav  {
   position: fixed;
   z-index: 100;
 } 
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: lightblue;
+  width:365px;
+  padding: 5px;
+}
+
+#namaj {
+  margin-top: 120px;
+  margin-bottom: 30px;
+}
+
+#bq {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 900;
+  
+}
