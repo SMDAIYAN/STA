@@ -19,7 +19,7 @@ body {
     background-color: mediumpurple;
     height:25px;
     padding: 5px;
-    width:360px;
+    width:365px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -27,7 +27,7 @@ body {
 
 .container {
     background-color: rgb(226, 40, 124);
-   width: 360px;
+   width: 365px;
    height: 400px;
    padding: 5px;
     display: flex;
@@ -40,7 +40,7 @@ body {
   margin-top: 45px;
     text-align: center;
     color: white;
-    width: 360px;
+    width: 365px;
     padding: 5px;
     background-color: rgb(149, 93, 223);
 }
@@ -106,7 +106,7 @@ width: 300px;
   padding: 5px;
   background: lightseagreen;
   height: 420px;
-  width: 360px;
+  width: 365px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -115,7 +115,7 @@ width: 300px;
 
 #ph {
   background: orange; 
-  width: 105px;
+  width: 107px;
   height: 120px;
   padding: 5px;
     display: flex;
@@ -129,7 +129,7 @@ width: 300px;
 
 #ch {
   background: deepskyblue;
-  width: 105px;
+  width: 107px;
   height: 120px;
   padding: 5px;
   display: flex;
@@ -143,7 +143,7 @@ width: 300px;
 
 #bi {
   background: lightcoral;
-  width: 105px;
+  width: 107px;
   height: 120px;
   padding: 5px;
   display: flex;
@@ -158,7 +158,7 @@ width: 300px;
 
 #hi {
   background: lightgreen;
-  width: 105px;
+  width: 107px;
   height: 120px;
   padding: 5px;
   display: flex;
@@ -173,8 +173,9 @@ width: 300px;
 
 #ge {
   background: lightslategrey;
-  width: 106px;
-  height: 128px;
+  width: 107px;
+  height: 120px;
+  padding: 5px;
   display: flex;
   justify-content: center;
   align-items: center;  
@@ -186,7 +187,7 @@ width: 300px;
 
 #ic {
   background: hotpink;
-  width: 105px;
+  width: 107px;
   height: 120px;
   padding: 5px;
   display: flex;
