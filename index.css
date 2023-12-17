@@ -236,3 +236,12 @@ footer {
   font-weight: 900;
   
 }
+
+#hashr {
+  width: 365px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  background: skyblue;
+}
